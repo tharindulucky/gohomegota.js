@@ -2,11 +2,13 @@
 [![Merged PRs](https://badgen.net/github/merged-prs/tharindulucky/gohomegota)](https://github.com/tharindulucky/gohomegota)
 [![license](https://badgen.net/github/license/tharindulucky/gohomegota)](https://badgen.net/github/license/tharindulucky/gohomegota)
 
-**GoHomeGota.js** is a simple NPM package (written with VanillaJS) that helps you to show your resistance to the corruption of the government.
+**[GoHomeGota.js](https://www.npmjs.com/package/gohomegota/)** is a simple NPM package (written with VanillaJS) that helps you to show your resistance to the corruption of the government.
 
 ## 1. How it works ?
 
 This will simply show a popup message to the users when they first visit your website/system. 
+
+![image](https://user-images.githubusercontent.com/15250118/163380712-36929248-2e78-48ac-8983-644b8880313c.png)
 
 ## 2. Installation
 

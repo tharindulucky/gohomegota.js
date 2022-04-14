@@ -1,6 +1,6 @@
 {
   "name": "gohomegota",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Small act of resistance matters the most. Install this and show your resistance to the corruption. ",
   "main": "index.js",
   "scripts": {
