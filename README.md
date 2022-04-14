@@ -1,5 +1,4 @@
 [![npm version](https://badgen.net/npm/v/gohomegota)](https://www.npmjs.com/package/gohomegota)
-[![npm downloads](https://badgen.net/npm/dm/gohomegota)](https://www.npmjs.com/package/gohomegota)
 [![Merged PRs](https://badgen.net/github/merged-prs/tharindulucky/gohomegota)](https://github.com/tharindulucky/gohomegota)
 [![license](https://badgen.net/github/license/tharindulucky/gohomegota)](https://badgen.net/github/license/tharindulucky/gohomegota)
 
