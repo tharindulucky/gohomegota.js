@@ -1,0 +1,16 @@
+{
+  "name": "gohomegota",
+  "version": "1.0.0",
+  "description": "Small act of resistance matters the most. Install this and show your resistance to the corruption. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gohomegota",
+    "gohomegota2022",
+    "savesrilanka"
+  ],
+  "author": "Tharindu Lakshitha",
+  "license": "ISC"
+}
