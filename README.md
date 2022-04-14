@@ -1,4 +1,9 @@
-**GoHomeGota.js** is a simple package (written with VanillaJS) that helps you to show your resistance to the corruption.
+[![npm version](https://badgen.net/npm/v/gohomegota)](https://www.npmjs.com/package/gohomegota)
+[![npm downloads](https://badgen.net/npm/dm/gohomegota)](https://www.npmjs.com/package/gohomegota)
+[![Merged PRs](https://badgen.net/github/merged-prs/tharindulucky/gohomegota)](https://github.com/tharindulucky/gohomegota)
+[![license](https://badgen.net/github/license/tharindulucky/gohomegota)](https://badgen.net/github/license/tharindulucky/gohomegota)
+
+**GoHomeGota.js** is a simple NPM package (written with VanillaJS) that helps you to show your resistance to the corruption of the government.
 
 ## 1. How it works ?
 
@@ -12,7 +17,11 @@ $ npm i gohomegota
 
 ## 3. Usage
 
-**This works on all the JavaScript frontend frameworks.**
+**This works with following JavaScript frontend frameworks.**
+
+* VueJS
+* ReactJS
+* AngularJS
 
 Just import it to any global file or component like this.
 
@@ -28,4 +37,4 @@ gohomegota.showResistance();
 
 That's it! 
 
-Feel free to customize the message contents and styles as preferred. Be creative! Make it your own!
+Kindly report any bugs and feel free to customize the message contents and styles as preferred. Be creative! Make it your own!
